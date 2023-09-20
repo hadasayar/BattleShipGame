@@ -44,7 +44,7 @@ The core game logic is implemented in the GameManagerService. This service manag
 
 Start the API as mentioned in the "Getting Started" section.
 
-Use your favorite API client (e.g., Postman, curl) to interact with the API endpoints.
+Use API client (e.g., Postman, curl) to interact with the API endpoints.
 
 Register new players using the /api/game/newplayer endpoint.
 
