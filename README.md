@@ -13,10 +13,15 @@ The Battleship game follows the classic rules:
 The API provides the following endpoints:
 
 *POST /api/game/newplayer* - Register a new player in the game.
+
 *GET /api/game/myboard* - Retrieve a player's own game board.
+
 *GET /api/game/oppboard* - Retrieve the opponent's game board.
+
 *GET /api/game/isgameover* - Check if the game is over.
+
 *POST /api/game/makemove* - Make a move by specifying coordinates to attack.
+
 *GET /api/game/whosturn* - Get the ID of the player whose turn it is.
 
 # Models
