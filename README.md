@@ -28,9 +28,13 @@ The API provides the following endpoints:
 The following models are used in this project:
 
 1.Board - Represents a player's game board.
+
 2.CellState (Enum) - Defines the state of a cell on the board (empty, ship, hit, miss).
+
 3.Game - Represents a Battleship game with players and their boards.
+
 4.Player - Represents a player in the game with a name and a board.
+
 5.BattleShip - Represents a ship on the board.
 
 # Service
